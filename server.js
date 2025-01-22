@@ -42,7 +42,6 @@ user: "site1", //user privilège dans phpmyadmin
 password: "site1" //mdp privilège dans phpmyadmin
 
 }
-
 );
 
  
