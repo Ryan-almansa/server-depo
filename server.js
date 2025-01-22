@@ -49,7 +49,7 @@ password: "site1" //mdp privilège dans phpmyadmin
 
 bddConnection.connect(
 
-function(err) { if (err) throw err; console.log("Je suis co a la base salut"); }
+function(err) { if (err) throw err; console.log("Je suis co a la base"); }
 
 );
 
