@@ -44,6 +44,7 @@ password: "site1" //mdp privilège dans phpmyadmin
 }
 );
 
+
  
 
 bddConnection.connect(
